@@ -1,4 +1,4 @@
-# CORS(Cross-origin resource sharing) 란?
+# CORS(Cross-origin resource sharing)을 우회하는 방법과 대처하는 방법은?
 
 웹개발시에 서버설정을 하지 않으면 외부 서버의 경로로 ajax요청을 날리면 에러가 나면서 요청이 실패합니다.
 
