@@ -2,7 +2,7 @@
 
 ## AWS CloudFront란 무엇인가?
 
-CloudFront란 AWS에서 제공하는 CDN서비스다. 캐싱을 통해서 사용자에게 좀 더 빠른 데이터 전송 속도를 제공한다. CloudFront는 전 세계에 캐쉬 기능을 하는 Edge Server(Location)을 두고 Client에 가장 가까운 Edge Server를 찾아 Latency를 최소화시켜 빠른 데이터 전송속도를 제공한다. 만약 Edge Server에 요청이 발생한 데이터가 존재하지 않으면 Origin Server(원본 데이터를 가지고 있는 서버. S3나 EC2 인스턴스 등)에 요청이 포워딩 되며, 요청받은 데이터를 Origin Server에서 획득한 후 Edge Server에 캐싱 데이터를 생성하고, 클라이언트로 응답이 발생한다.
+CloudFront란 AWS에서 제공하는 CDN(Contents Delivery Network) 서비스다. 캐싱을 통해서 사용자에게 좀 더 빠른 데이터 전송 속도를 제공한다. CloudFront는 전 세계에 캐쉬 기능을 하는 Edge Server(Location)을 두고 Client에 가장 가까운 Edge Server를 찾아 Latency를 최소화시켜 빠른 데이터 전송속도를 제공한다. 만약 Edge Server에 요청이 발생한 데이터가 존재하지 않으면 Origin Server(원본 데이터를 가지고 있는 서버. S3나 EC2 인스턴스 등)에 요청이 포워딩 되며, 요청받은 데이터를 Origin Server에서 획득한 후 Edge Server에 캐싱 데이터를 생성하고, 클라이언트로 응답이 발생한다.
 
 CloudFront에서는 HTTP 프로토콜을 이용해서 다운로드 할 수 있는 일반적인 이미지 혹은 정적파일을 제공하며, 스트리밍을 위해 사용할 수 있는 HTTP Progressive Download 방식이나 RTSP(Real Time Streaming Protocol)을 지원하는 동영상 콘텐츠를 제공할 수 있다.
 

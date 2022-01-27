@@ -77,11 +77,14 @@ jobs: # Job 설정
         run: |
           aws s3 cp --recursive --region ap-northeast-2 build s3://dotzip
 
-      - name: Invalidate Cache CloudFront # invalidate of cloudfront
+      - name: Invalidate Cache CloudFront
         uses: chetan/invalidate-cloudfront-action@master
         env:
+          AWS_ACCESS_KEY_ID: ${{secrets.SECRET_KEY}}
+          AWS_SECRET_ACCESS_KEY: ${{secrets.SECRET_ACCESS_KEY}}
+          AWS_REGION: ${{secrets.AWS_REGION}}
           DISTRIBUTION: ${{secrets.DEV_DISTRIBUTION_ID}}
-          PATHS: "/index.html"
+          PATHS: "/*"
         continue-on-error: true
 ```
 
