@@ -1,3 +1,5 @@
+# `혼자보려고 남기는 기록`
+
 [markdown](https://github.com/O-h-y-o/TECH/blob/master/info/markdown.md)</br>
 [브라우저 (React) 렌더링 속도 높이기](https://github.com/O-h-y-o/TECH/blob/master/info/렌더링성능높이기.md)</br>
 [리액트 외의 프레임워크는 무엇이 있고 차이는?](https://github.com/O-h-y-o/TECH/blob/master/info/리액트%20외의%20프레임워크.md)</br>
@@ -26,3 +28,7 @@
 [[CSS] position 속성은?](https://github.com/O-h-y-o/TECH/blob/master/info/position.md)</br>
 [hositing](https://github.com/O-h-y-o/TECH/blob/master/info/hoisting.md)</br>
 [REST API](https://github.com/O-h-y-o/TECH/blob/master/info/REST%20API.md)</br>
+[Object Prototype](https://github.com/O-h-y-o/TECH/blob/master/info/Object%20Prototype.md)</br>
+[React Life Cycle](https://github.com/O-h-y-o/TECH/blob/master/info/React%20Life%20Cycle.md)</br>
+[github actions CI/CD 구축 / s3버킷에 적용하기](https://github.com/O-h-y-o/TECH/blob/master/info/githubActions.md)</br>
+[유용한 사이트들](https://github.com/O-h-y-o/TECH/blob/master/info/%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%AA%A8%EC%9D%8C.md)</br>
