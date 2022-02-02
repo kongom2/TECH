@@ -37,7 +37,7 @@
 [OAuth2](https://github.com/O-h-y-o/TECH/blob/master/info/OAuth.md)</br>
 [JWT](https://github.com/O-h-y-o/TECH/blob/master/info/JWT.md)</br>
 [Javascript ES2015++](https://github.com/O-h-y-o/TECH/blob/master/info/Javascript%20ES2015%2B%2B.md)</br>
-[3rd Party.md](https://github.com/O-h-y-o/TECH/blob/master/info/3rd%20Party.md)</br>
+[3rd Party](https://github.com/O-h-y-o/TECH/blob/master/info/3rd%20Party.md)</br>
 [PWA란?](https://github.com/O-h-y-o/TECH/blob/master/info/PWA.md)</br>
 [적응형 웹 vs 반응형 웹](https://github.com/O-h-y-o/TECH/blob/master/info/적응형%20웹%20vs%20반응형%20웹.md)</br>
 [Context API란?](https://github.com/O-h-y-o/TECH/blob/master/info/Context%20API란%3F.md)</br>
