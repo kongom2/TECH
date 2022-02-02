@@ -32,3 +32,9 @@
 [React Life Cycle](https://github.com/O-h-y-o/TECH/blob/master/info/React%20Life%20Cycle.md)</br>
 [github actions CI/CD 구축 / s3버킷에 적용하기](https://github.com/O-h-y-o/TECH/blob/master/info/githubActions.md)</br>
 [유용한 사이트들](https://github.com/O-h-y-o/TECH/blob/master/info/%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%AA%A8%EC%9D%8C.md)</br>
+[HTTP status code](https://github.com/O-h-y-o/TECH/blob/master/info/HTTP%20status%20code.md)</br>
+[OAuth](https://github.com/O-h-y-o/TECH/blob/master/info/OAuth.md)</br>
+[OAuth2](https://github.com/O-h-y-o/TECH/blob/master/info/OAuth.md)</br>
+[JWT](https://github.com/O-h-y-o/TECH/blob/master/info/JWT.md)
+[Javascript ES2015++](https://github.com/O-h-y-o/TECH/blob/master/info/Javascript%20ES2015%2B%2B.md)
+[3rd Party.md](https://github.com/O-h-y-o/TECH/blob/master/info/3rd%20Party.md)
